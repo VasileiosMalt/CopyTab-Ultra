@@ -4,7 +4,7 @@
 
 ## 🚀 Install
 
-[**Download from Chrome Web Store**](#) *(Link coming soon)*
+[**Download from Chrome Web Store**](https://chromewebstore.google.com/detail/copytab-ultra/cakdfoedldajiaflbkffnpnlkekaoola)
 
 ## ✨ Features
 
