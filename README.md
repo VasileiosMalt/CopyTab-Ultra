@@ -17,8 +17,3 @@
 ## 🔒 Privacy Policy
 
 This extension does not collect any user data. All operations are performed locally on your device.
-
----
-
-*Built with React, TypeScript, and Tailwind CSS.*
-# CopyTab-Ultra
